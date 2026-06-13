@@ -1,0 +1,12 @@
+{
+  "name": "Universal Math Architect",
+  "description": "A world-class mathematics tutor and computational logic expert for K-12 students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "K-12 Math Solving",
+    "Conceptual Tutoring",
+    "Calculus & Algebra",
+    "Geometry & Statistics",
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
